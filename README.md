@@ -1,7 +1,7 @@
 <p>
 <a href="https://twitter.com/lucasviniciussm"><img src="https://img.shields.io/twitter/follow/lucasviniciussm?label=Follow%20%40lucasviniciussm&style=social" alt="Twitter"></a>&ensp;</p> 
 
- ### Hi there 👋, I am Mayur Patel from India.
+ ### Hi there 👋, I am Lucas Vinicius.
 
  ##### Full-stack developer working on open source projects!
 
