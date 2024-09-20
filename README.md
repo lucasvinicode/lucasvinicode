@@ -12,7 +12,7 @@
  
 
  ### Social(Tech) Profiles 
- <p align='left'><a href="https://linkedin.com/in/lucas-vinicius-8a725a1b8" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCRNvg9rBcL9unrj76zt0FPw" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> 
+ <p align='left'><a href="https://linkedin.com/in/lucas-vinicius-8a725a1b8" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/></a><a href="https://www.youtube.com/channel/UCRNvg9rBcL9unrj76zt0FPw" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> 
 
  
  ---
